@@ -13,9 +13,14 @@ I started my career in Cybersecurity around October, 2022, when I discovered eve
 *   🤝  I'm open to collaborating on any job related with Web Application Pentesting or Bug Bounty Hunting.
 *   ⚡  I love watch movies and series on Netflix, and also travel & discover new places, specially in touch with nature ⛱️.
 
-<a href="https://www.x.com/hackermater11" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/hackermater11?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+<a 
+                href="https://www.x.com/hackermater11" target="_blank" rel="noreferrer"><img
+                src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+/><a/> <a 
+                href="https://www.linkedin.com/in/mateo-gabriel-fumis" target="_blank" rel="noreferrer"><img
+                src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+/><a/>
+              
 
 ### Badges
 
