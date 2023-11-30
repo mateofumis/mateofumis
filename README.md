@@ -26,4 +26,10 @@ I started my career in Cybersecurity around October, 2022, when I discovered eve
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/mateofumis/BurpScopeCreator.py" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mateofumis&repo=BurpScopeCreator.py&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mateofumis/mateofumis.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mateofumis&repo=mateofumis.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="left"><a href="https://github.com/mateofumis/BurpScopeCreator.py" align="flex"><img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=mateofumis&repo=BurpScopeCreator.py&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mateofumis/mateofumis.github.io" align="right"><img align="flex" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=mateofumis&repo=mateofumis.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<b>Hack The Box</b>
+
+<img align="left" width="220px" height="50px" src="https://www.hackthebox.com/badge/image/1223814" /></a><a href="https://app.hackthebox.com/profile/1223814" align="right">
+<br /><br /><br /><br /><br /><br /><br />
+
