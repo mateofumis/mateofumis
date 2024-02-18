@@ -4,14 +4,15 @@ Hi 👋 My name is Mateo Fumis
 I'm Web App Pentester & Bug Bounty Hunter
 --------------------------------------------
 
-I started my career in Cybersecurity around October, 2022, when I discovered everything the exciting about Ethical Hacking and Pentesting. My motivation is on growth as Ethical Hacker and Bug Bounty Hunter while I learn and practice my skills in cybersecurity. I love solve machines in Hack The Box and the Labs of Port Swigger's Web Security Academy. Also I'm focused on the Bug Bounty Hunting in HackerOne and Intigriti.
+I started my career in Cybersecurity around October, 2022, when I discovered everything the exciting about Ethical Hacking and Pentesting. My motivation is on growth as Ethical Hacker and Bug Bounty Hunter while I learn and practice my skills in cybersecurity. I love to solve machines in Hack The Box and the Labs of Port Swigger's Web Security Academy. Also I'm focused in the Bug Bounty Hunting on HackerOne.
 
 *   🌍  I'm based in Argentina 🇦🇷.
 *   🖥️  See my portfolio at [Mateo Fumis - Blog de Ciberseguridad](http://mateofumis.github.io)
+*   🖥️  See one of my favorites projects at [Offensive Cybersecurity (by hackermater)](https://hackermater.gitbook.io)
 *   ✉️  You can contact me at [mateofumis1@gmail.com](mailto:mateofumis1@gmail.com)
 *   🧠  I'm learning Python and Bash Scripting for Pentesting.
 *   🤝  I'm open to collaborating on any job related with Web Application Pentesting or Bug Bounty Hunting.
-*   ⚡  I also love watch movies and series on Netflix and travel & discover new places, specially in touch with nature ⛱️.
+*   ⚡  I also love to watch movies and series on Netflix and travel & discover new places, specially in touch with the nature ⛱️.
 
 <a 
                 href="https://www.x.com/hackermater11" target="_blank" rel="noreferrer"><img
