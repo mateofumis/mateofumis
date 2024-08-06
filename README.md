@@ -1,8 +1,8 @@
 Hi 👋 I am Mateo Fumis (hackeramter)
-============================
+====================================
 
-I'm Web App Pentester & Bug Bounty Hunter
---------------------------------------------
+I'm Penetration Tester and Security Researcher
+-------------------------------------------------
 
 I started my career in Cybersecurity around October, 2022, when I discovered everything the exciting about Ethical Hacking and Pentesting. My motivation is on growth as Ethical Hacker and Bug Bounty Hunter while I learn and practice my skills in cybersecurity. I love to solve machines in Hack The Box and the Labs of Port Swigger's Web Security Academy. Also I'm focused in the Bug Bounty Hunting on HackerOne, Bugcrowd and Intigriti.
 
@@ -14,25 +14,34 @@ I started my career in Cybersecurity around October, 2022, when I discovered eve
 *   🤝  I'm open to collaborating on any job related with Web Application Pentesting or Bug Bounty Hunting.
 *   ⚡  I also love to watch movies and series on Netflix and travel & discover new places, specially in touch with the nature ⛱️.
 
-<a 
-                href="https://www.x.com/hackermater11" target="_blank" rel="noreferrer"><img
-                src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-/><a/> <a 
-                href="https://www.linkedin.com/in/mateo-gabriel-fumis" target="_blank" rel="noreferrer"><img
-                src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-/><a/>
+<a href="https://www.x.com/hackermater11" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a> 
+<a href="https://www.linkedin.com/in/mateo-gabriel-fumis" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://medium.com/@hackermater" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
               
 
 ### Badges
 
 <b>Top Repositories</b>
 
-<div width="100%" align="left"><a href="https://github.com/mateofumis/BurpScopeCreator.py" align="flex"><img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=mateofumis&repo=BurpScopeCreator.py&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mateofumis/mateofumis.github.io" align="right"><img align="flex" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=mateofumis&repo=mateofumis.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mateofumis/SEPunycoder.py" align="right"><img align="flex" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=mateofumis&repo=SEPunycoder.py&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+- [BurpScopeCreator.py](https://github.com/mateofumis/BurpScopeCreator.py)  
+  ![BurpScopeCreator.py](https://github-readme-stats.vercel.app/api/pin/?username=mateofumis&repo=BurpScopeCreator.py&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)
 
-<b>Hack The Box</b>
+- [mateofumis.github.io](https://github.com/mateofumis/mateofumis.github.io)  
+  ![mateofumis.github.io](https://github-readme-stats.vercel.app/api/pin/?username=mateofumis&repo=mateofumis.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)
 
-<img align="left" width="220px" height="50px" src="https://www.hackthebox.com/badge/image/1223814" /></a><a href="https://app.hackthebox.com/profile/1223814" align="right">
-<br /></br>
+- [SEPunycoder.py](https://github.com/mateofumis/SEPunycoder.py)  
+  ![SEPunycoder.py](https://github-readme-stats.vercel.app/api/pin/?username=mateofumis&repo=SEPunycoder.py&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)
 
-<h3 align="left">🧡 Support me with a virtual coffee!</h3>
-<p><a href="https://ko-fi.com/hackermater"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hackermater" /></a></p><br><br>
+- [dumpdork](https://github.com/mateofumis/dumpdork)  
+  ![dumpdork](https://github-readme-stats.vercel.app/api/pin/?username=mateofumis&repo=dumpdork&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)
+
+
+<h3 align="left">Support me with a virtual coffee! ☕</h3>
+<p><a href="https://ko-fi.com/hackermater"> <img align="left" src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_stroke.png" height="50" alt="hackermater" /></a></p><br><br>
