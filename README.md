@@ -5,10 +5,9 @@
 I started my career in Cybersecurity around October 2022, when I discovered everything exciting about Ethical Hacking and Pentesting. My motivation is to grow as an Ethical Hacker and Bug Bounty Hunter while I learn and practice my skills in cybersecurity. I love to solve machines in Hack The Box and the labs of Port Swigger's Web Security Academy. I'm also focused on Bug Bounty Hunting on HackerOne, Bugcrowd, and Intigriti.
 
 - 🌍 I'm based in Argentina 🇦🇷.
-- 🖥️ See my portfolio at [Mateo Fumis - Blog de Ciberseguridad](https://mateofumis.github.io).
-- 🖥️ Check out one of my favorite projects at [Offensive Cybersecurity (by hackermater)](https://hackermater.gitbook.io).
+- 🖥️ See my portfolio at [Mateo Fumis (hackermater)](https://mfumis.site).
+- 🖥️ Check out one of my favorite projects at [Offensive Cybersecurity (by hackermater)](https://hackermater.mfumis.site).
 - ✉️ You can contact me at [mateofumis1@gmail.com](mailto:mateofumis1@gmail.com).
-- 🧠 I'm learning Python and Bash Scripting for Pentesting.
 - 🤝 I'm open to collaborating on any job related to Web Application Pentesting or Bug Bounty Hunting.
 - ⚡ I also love to watch movies and series on Netflix and travel & discover new places, especially in touch with nature ⛱️.
 
@@ -24,14 +23,12 @@ I started my career in Cybersecurity around October 2022, when I discovered ever
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-### Badges
+### Top Repositories
 
-**Top Repositories**
-
-- [BurpScopeCreator.py](https://github.com/mateofumis/BurpScopeCreator.py)
-- [mateofumis.github.io](https://github.com/mateofumis/mateofumis.github.io)
 - [dumpdork](https://github.com/mateofumis/dumpdork)
+- [fridaDownloader](https://github.com/mateofumis/fridaDownloader)
 - [SEPunycoder.py](https://github.com/mateofumis/SEPunycoder.py)
+- [BurpScopeCreator.py](https://github.com/mateofumis/BurpScopeCreator.py)
 
 ### Support me with a virtual coffee! ☕
 <p>
