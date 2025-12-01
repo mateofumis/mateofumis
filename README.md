@@ -2,7 +2,7 @@
 
 ## I'm a Penetration Tester and Security Researcher
 
-I started my career in Cybersecurity around October 2022, when I discovered everything exciting about Ethical Hacking and Pentesting. My motivation is to grow as an Ethical Hacker and Bug Bounty Hunter while I learn and practice my skills in cybersecurity. I love to solve machines in Hack The Box and the labs of Port Swigger's Web Security Academy. I'm also focused on Bug Bounty Hunting on HackerOne, Bugcrowd, and Intigriti.
+I started my career in Cybersecurity around October 2022, when I discovered everything exciting about Ethical Hacking and Pentesting. My motivation is to grow as an Ethical Hacker and Bug Bounty Hunter while I learn and practice my skills in cybersecurity. I love to solve machines in Hack The Box and the labs of PortSwigger's Web Security Academy. I'm also focused on Bug Bounty Hunting on Bugcrowd.
 
 - 🌍 I'm based in Argentina 🇦🇷.
 - 🖥️ See my portfolio at [Mateo Fumis (hackermater)](https://www.mfumis.com).
