@@ -27,8 +27,9 @@ I started my career in Cybersecurity around October 2022, when I discovered ever
 
 - [dumpdork](https://github.com/mateofumis/dumpdork)
 - [fridaDownloader](https://github.com/mateofumis/fridaDownloader)
+- [AndroidManifestExplorer](https://github.com/mateofumis/AndroidManifestExplorer)
+- [mobile-pentesting-setup](https://github.com/mateofumis/mobile-pentesting-setup)
 - [SEPunycoder.py](https://github.com/mateofumis/SEPunycoder.py)
-- [BurpScopeCreator.py](https://github.com/mateofumis/BurpScopeCreator.py)
 
 ### Support me with a virtual coffee! ☕
 <p>
