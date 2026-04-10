@@ -1,39 +1,53 @@
 # Hi 👋 I am Mateo Fumis (hackermater)
 
-## I'm a Penetration Tester and Security Researcher
+### 🛡️ Penetration Tester & Security Researcher | AppSec, Offensive Security Engineer | eMAPT
 
-I started my career in Cybersecurity around October 2022, when I discovered everything exciting about Ethical Hacking and Pentesting. My motivation is to grow as an Ethical Hacker and Bug Bounty Hunter while I learn and practice my skills in cybersecurity. I love to solve machines in Hack The Box and the labs of PortSwigger's Web Security Academy. I'm also focused on Bug Bounty Hunting on Bugcrowd.
+<br>
 
-- 🌍 I'm based in Argentina 🇦🇷.
-- 🖥️ See my portfolio at [Mateo Fumis (hackermater)](https://www.mfumis.com).
-- 🖥️ Check out one of my favorite projects at [Offensive Cybersecurity (by hackermater)](https://hackermater.gitbook.io).
-- ✉️ You can contact me at [contact@mfumis.com](mailto:contact@mfumis.com).
-- 🤝 I'm open to collaborating on any job related to Web Application Pentesting or Bug Bounty Hunting.
-- ⚡ I also love to watch movies and series on Netflix and travel & discover new places, especially in touch with nature ⛱️.
-
-### Connect with me:
-
-<a href="https://www.x.com/hackermater11" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a> 
-<a href="https://www.linkedin.com/in/mateo-gabriel-fumis" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://medium.com/@hackermater" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-### Top Repositories
-
-- [dumpdork](https://github.com/mateofumis/dumpdork)
-- [fridaDownloader](https://github.com/mateofumis/fridaDownloader)
-- [AndroidManifestExplorer](https://github.com/mateofumis/AndroidManifestExplorer)
-- [mobile-pentesting-setup](https://github.com/mateofumis/mobile-pentesting-setup)
-- [SEPunycoder.py](https://github.com/mateofumis/SEPunycoder.py)
-
-### Support me with a virtual coffee! ☕
-<p>
-    <a href="https://ko-fi.com/hackermater">
-        <img align="left" src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_stroke.png" height="50" alt="hackermater" />
-    </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mateo-gabriel-fumis" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.x.com/hackermater11" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://bugcrowd.com/h/hackermater" target="_blank"><img src="https://img.shields.io/badge/Bugcrowd-F69220?style=for-the-badge&logo=bugcrowd&logoColor=white" /></a>
+  <a href="https://app.hackthebox.com/public/users/1223814" target="_blank"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+  <a href="https://tryhackme.com/p/hackermater" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 </p>
+
+---
+
+### 📖 About Me
+I discovered my passion for **Ethical Hacking and Pentesting** in 2022. Since then, I've been focused on growing as a Bug Bounty Hunter and Security Researcher.
+
+* 🎯 **Currently:** Hunting on **Bugcrowd** & contributing to **OWASP MAS**.
+* 🧠 **Learning:** Mastering labs at **PortSwigger Academy** & **Hack The Box**.
+* 🌍 **Location:** Based in Argentina 🇦🇷.
+* ⚡ **Interests:** I'm a fan of cinema 🍿 and exploring nature while traveling ⛱️.
+
+---
+
+### 🚀 Featured Projects
+* 🔍 **[DumpDork](https://github.com/mateofumis/dumpdork)** - Powerful CLI tool for automated Google Dorking to uncover hidden information and vulnerabilities using advanced search queries.
+* 🛠️ **[fridaDownloader](https://github.com/mateofumis/fridaDownloader)** - CLI tool that streamlines downloading Frida Gadget/Server for Android, enabling fast access for dynamic instrumentation.
+* 📲 **[AndroidManifestExplorer](https://github.com/mateofumis/AndroidManifestExplorer)** - High-performance static analysis utility to automate attack surface discovery in Android apps. Identifies exposed components and provides ready-to-use `adb` payloads.
+* 🐳 **[mobile-pentesting-setup](https://github.com/mateofumis/mobile-pentesting-setup)** - All-in-one Dockerized Ubuntu environment for Android pentesting. Includes Frida, Objection, and ADB support (USB/Wireless) without dependency conflicts.
+
+---
+
+### 🌐 My Ecosystem
+* 🖥️ **Portfolio:** [www.mfumis.com](https://www.mfumis.com)
+* 📚 **Knowledge Base:** [Offensive Cybersecurity (by hackermater)](https://hackermater.gitbook.io)
+* ✉️ **Contact:** [contact@mfumis.com](mailto:contact@mfumis.com)
+
+---
+
+### 📊 GitHub Activity
+<p align="left">
+  <img height="170em" src="https://github-readme-stats.shion.dev/api?username=mateofumis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mateofumis&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### Support my work ☕
+<a href="https://ko-fi.com/hackermater">
+  <img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_stroke.png" height="40" alt="hackermater" />
+</a>
